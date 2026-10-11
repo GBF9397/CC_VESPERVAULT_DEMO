@@ -1,8 +1,8 @@
 # ▶ PLAY VESPERVAULT · 忆之笼
 
-## 👉 [**TAP HERE TO PLAY · 点这里开始玩**](https://gbf9397.github.io/CC_DEMO_VESPERVAULT/)
+## 👉 [**TAP HERE TO PLAY · 点这里开始玩**](https://gbf9397.github.io/CC_VESPERVAULT_DEMO/)
 
-**https://gbf9397.github.io/CC_DEMO_VESPERVAULT/**
+**https://gbf9397.github.io/CC_VESPERVAULT_DEMO/**
 
 Works on **phone and PC** in the browser - nothing to install, no download.
 Phones get touch controls automatically. Current version: **v0.08.7**.
